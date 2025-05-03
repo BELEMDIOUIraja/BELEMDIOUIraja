@@ -1,6 +1,9 @@
 # 💫 About Me:
-I’m interested in...<br><br>Data engineering, machine learning, and software development. Building innovative solutions for real-world challenges using AI and NLP. 🌱 I’m currently learning...<br><br>Advanced machine learning techniques and NLP.. 💞️ I’m looking to collaborate on...<br><br>AI-based projects, especially in NLP and data analysis. Web and backend development using Java, Spring Boot, and React. 📫 How to reach me...<br><br>📧 Email: rajabelemdioui2003@gmail.com 💼 LinkedIn: linkedin.com/in/beelemdioui-raja-1633b6294 🖥️ GitHub: github.com/BELEMDIOUIraja<br><br>⚡ Fun fact:<br><br>I love solving complex data problems and making sense of unstructured information! 🚀 Passionate about both backend development and AI-driven applications.
-
+💼 Student in Innovation & AMOA | Data Engineering @ INPT  
+🚀 Passionate about AI, Data Science & smart technologies  
+🧠 Interested in solving real-world problems through data  
+🌱 Currently learning: ML, NLP 
+📫 rajabelemdioui2003@gmail.com | [LinkedIn](https://www.linkedin.com/in/beelemdioui-raja-1633b6294)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/beelemdioui-raja-) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@RAJA BELEMDIOUI) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajabelemdioui2003@gmail.com) 
